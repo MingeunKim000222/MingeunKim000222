@@ -1,28 +1,21 @@
- <h1>안녕하세요 👋</h1>
+<h1>안녕하세요 👋</h1>
 
-  <div class="section">
-    <h2>소개</h2>
-    <p>저의 GitHub 프로필에 오신 것을 환영합니다! 저는 혁신적인 앱을 개발하고 문제를 해결하는 것을 좋아하는 소프트웨어 엔지니어입니다. 아래는 제 소개입니다:</p>
-    <ul>
-      <li>🔭 현재 Android Studio와 Firebase를 사용하여 실시간 번역 및 수정앱을 개발 중입니다.</li>
-      <li>🌱 현재 고급 Android 개발, Firebase 통합, 실시간 데이터 처리 기술을 배우고 있습니다.</li>
-      <li>👯 관련된 프로젝트에 협업하고 싶습니다.</li>
-      <li>🤔 모바일 애플리케이션 성능 최적화에 대한 고급 기술에 대해 도움을 구하고 있습니다.</li>
-      <li>💬 Android 개발, Firebase, Java, C++ 또는 프로젝트 관리에 대해 궁금한 점을 물어보세요.</li>
-      <li class="contact-info">📫 연락 방법: <a href="mailto:park0630p@naver.com">park0630p@naver.com</a></li>
-      <li>😄 성별: 남성 (He/Him)</li>
-      <li>⚡ 재미있는 사실: 전기차 충전소를 찾는 앱을 개발한 적이 있습니다. 🚗🔌</li>
-    </ul>
-  </div>
+<div class="section">
+  <h2>소개</h2>
+  <p>제 GitHub에 방문해 주셔서 감사합니다! 저는 항만 및 토목 분야의 도면 설계 역량을 기반으로 다양한 실무 경험과 기술을 보유한 예비 엔지니어 김민건입니다.</p>
+  <ul>
+      <li>🛠 AutoCAD, 3ds Max, Excel 기반의 수량산출 및 구조 해석 업무에 6개월간 참여하며 실무 역량을 키웠습니다.</li>
+    <li>📐 캡스톤 프로젝트를 통해 직접 구조물을 설계, 제작, 실험까지 수행한 경험이 있습니다.</li>
+       <li>👷 도면 해석과 구조 설계 외에도 디지털 기술을 접목한 스마트 설계 방식에 관심이 많습니다.</li>
+    <li>📫 연락 방법: <a href="mailto:park0630p@naver.com">park0630p@naver.com</a></li>
+    <li>😄 성별: 남성 (He/Him)</li>
+    <li>⚡ 흥미로운 사실: 건축 설계와 도면 설계 동시에 수행하며, 도면 분석 및 재료혼합에 관심있습니다..</li>
+  </ul>
+</div>
 
+<h2>My Tech Stack</h2>
 
-<h2> My tech Stack </h2>
+![AutoCAD](https://img.shields.io/badge/-AutoCAD-E44D26?style=for-the-badge&logo=autodesk&logoColor=ffffff)
+![3ds Max](https://img.shields.io/badge/-3ds%20Max-0175C2?style=for-the-badge&logo=autodesk&logoColor=ffffff)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=ffffff)
 
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=ffffff)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=ffffff)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)
-![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=ffffff)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=ffffff)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=ffffff)
